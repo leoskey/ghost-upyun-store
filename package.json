@@ -1,0 +1,14 @@
+{
+  "name": "ghost-upyun-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leoskey/ghost-upyun-store.git",
+  "author": "leoskey<leichen@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "ghost-storage-base": "^0.0.5",
+    "moment": "^2.27.0",
+    "upyun": "^3.4.4"
+  }
+}
