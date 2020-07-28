@@ -7,7 +7,7 @@ npm i ghost-upyun-store
 ## Usage
 ```json
 "storage": {
-  "active": "ghost-upyun-store", // content\adapters\storage\ghost-upyun-store
+  "active": "ghost-upyun-store",
   "ghost-upyun-store": {
     "bucket": "<your bucket name>",
     "operator": "<your operator>",

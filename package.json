@@ -1,7 +1,7 @@
 {
   "name": "ghost-upyun-store",
   "description": "Upyun Storage for Ghost",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/leoskey/ghost-upyun-store.git",
   "author": "leoskey<leichen@live.com>",
